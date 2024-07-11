@@ -32,3 +32,28 @@ Create a Bash script that serves as a simple process monitor, allowing users to 
 - Allow users to configure the script through a configuration file. For example, users might specify the update interval, alert thresholds, etc.
 
 - Users can create a configuration file (e.g., process_monitor.conf) with settings included.
+
+
+## Sample From the Output
+
+
+![Image Alt Text](./snapshots/1.png)
+
+
+![Image Alt Text](./snapshots/2.png)
+
+
+![Image Alt Text](./snapshots/3.png)
+
+
+![Image Alt Text](./snapshots/4.png)
+
+
+![Image Alt Text](./snapshots/5.png)
+
+
+![Image Alt Text](./snapshots/6.png)
+
+
+![Image Alt Text](./snapshots/7.png)
+
